@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JusChillin96
+- 👋 Hi, I’m Waleed Matar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
